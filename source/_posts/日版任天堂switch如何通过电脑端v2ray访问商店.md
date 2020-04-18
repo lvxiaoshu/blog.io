@@ -2,7 +2,7 @@
 title: 日版任天堂switch如何通过电脑端v2ray访问商店
 ---
 博主的switch,到货不久,发现无法连上商店,正好手上有v2ray，研究了下，发现可以通过v2ray共享http连接，步骤如下
-
+<!-- more -->
 ### v2ray配置(以v2rayN为例)
 默认启用http代理，
 点击参数设置![Image text](1.png)
